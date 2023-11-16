@@ -1,0 +1,3 @@
+# typescript
+
+*desafios dio concluidos.*
